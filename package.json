@@ -11,7 +11,7 @@
     "file-loader": "^5.1.0",
     "font-awesome": "^4.7.0",
     "glyphicons-only-bootstrap": "^1.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-ujs": "~1.2.2",
     "node-sass": "~4.13.1",
     "npm-install-webpack-plugin": "latest",
